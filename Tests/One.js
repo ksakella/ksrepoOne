@@ -1,7 +1,7 @@
 let js="Kamesh"
 console.log(js);
-
-js=js+"Mark";
+js='ATMOS'
+//js=js+"Mark";
 console.log(js)
 
 
